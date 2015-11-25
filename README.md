@@ -2,6 +2,9 @@
 
 | S No. | Problem No. | Problem Link | Solution |
 | ----- | ----------- | ------------ | -------- |
+| 44 |11105|[11105](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2046)| [C++](./c++/11105.cpp)|
+| 43 |11408|[11408](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2403)| [C++](./c++/11408.cpp)|
+| 42 |12028|[12028](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3179)| [C++](./c++/12028.cpp)|
 | 41 |10871|[10871](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=771&page=show_problem&problem=1812)| [C++](./c++/10871.cpp)|
 | 40 |10533|[10533](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1474)| [C++](./c++/10533.cpp)|
 | 39 |967|[967](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=771&page=show_problem&problem=908)| [C++](./c++/967.cpp)|
