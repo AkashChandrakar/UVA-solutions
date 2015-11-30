@@ -2,6 +2,16 @@
 
 | S No. | Problem No. | Problem Link | Solution |
 | ----- | ----------- | ------------ | -------- |
+| 54 |442|[442](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=383)| [C++](./c++/442.cpp)|
+| 53 |1592|[1592](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4467)| [C++](./c++/1592.cpp)|
+| 52 |136|[136](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=72)| [C++](./c++/136.cpp)|
+| 51 |156|[156](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92)| [C++](./c++/156.cpp)|
+| 50 |10815|[10815](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1756)| [C++](./c++/10815.cpp)|
+| 49 |10474|[10474](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1415)| [C++](./c++/10474.cpp)|
+| 48 |1339|[1339](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4085)| [C++](./c++/1339.cpp)|
+| 47 |1583|[1583](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4458)| [C++](./c++/1583.cpp)|
+| 46 |401|[401](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342)| [C++](./c++/401.cpp)|
+| 45 |272|[272](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=208)| [C++](./c++/272.cpp)|
 | 44 |11105|[11105](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2046)| [C++](./c++/11105.cpp)|
 | 43 |11408|[11408](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2403)| [C++](./c++/11408.cpp)|
 | 42 |12028|[12028](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3179)| [C++](./c++/12028.cpp)|
