@@ -2,6 +2,11 @@
 
 | S No. | Problem No. | Problem Link | Solution |
 | ----- | ----------- | ------------ | -------- |
+| 62 |10651|[10651](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=779&page=show_problem&problem=1592)| [C++](./c++/10651.cpp)|
+| 61 |11218|[11218](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=779&page=show_problem&problem=2159)| [C++](./c++/11218.cpp)|
+| 61 |12324|[12324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3746)| [C++](./c++/12324.cpp)|
+| 60 |11088|[11088](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2029)| [C++](./c++/11088.cpp)|
+| 59 |10911|[10911](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1852)| [C++](./c++/10911.cpp)|
 | 58 |10137|[10137](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1078)| [C++](./c++/10137.cpp)|
 | 57 |10189|[10189](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1130)| [C++](./c++/10189.cpp)|
 | 56 |100|[100](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)| [C++](./c++/100.cpp)|
